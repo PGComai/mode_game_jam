@@ -1,0 +1,23 @@
+a game where you fight a very strong enemy.
+
+OBJECTIVE: defeat the enemy
+
+FEATURES:
+	- change gameplay mode to alter game completely
+	- everything is fair game for change except the relationship between player and enemy
+	- who has control over the mode?
+	- how many features or obstacles should be shared through all modes?
+	- each mode should play like its own boss fight
+		-- will not end until enemy is beat
+	- enemy can be beat in any mode
+
+MODES:
+	- racecar mode
+	- warrior mode
+	- rpg mode
+	- typing mode
+	- farming mode
+	- 2d platformer mode
+	- zombie mode
+	- cards mode
+	- fighting game mode
